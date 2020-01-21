@@ -1,4 +1,4 @@
-Given a set of poll data called election_data.csv with three columns: Voter ID, County, and Candidate, the challenge was to create a Python script that analyzes the votes and calculates:
+Given a csv poll data with the columns: Voter ID, County, and Candidate, the challenge was to create a Python script that analyzed the votes and calculated:
 
 1. The total number of votes cast
 2. A complete list of candidates who received votes
