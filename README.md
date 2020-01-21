@@ -1,3 +1,5 @@
+//Refer file pypoll
+
 Given a csv poll data with the columns: Voter ID, County, and Candidate, the challenge was to create a Python script that analyzed the votes and calculated:
 
 1. The total number of votes cast
